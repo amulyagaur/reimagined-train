@@ -35,7 +35,7 @@ int main()
     	if(dp[amount]!=INT_MAX)
     	cout<<dp[amount]<<endl;
     	else
-    		cout<<"Impossible"<<endl;
+    		cout<<"Impossible"<<endl ;
     }
     return 0;
 }
